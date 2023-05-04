@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math/courses/essence-of-linear-algebra/notes-from-2023-03-13/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/math/courses/essence-of-linear-algebra/notes-from-2023-03-13/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
